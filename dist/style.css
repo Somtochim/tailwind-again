@@ -1,0 +1,10 @@
+/* filepath: /c:/Users/DELL/Documents/Tailwind Starter/dist/styles.css */
+.custom-gradient {
+    background: linear-gradient(to right, #f7b347, #f3ede6(32, 93%, 54%));
+    color: white;
+    text-transform: uppercase;
+    padding-top: 0.5rem;
+    padding-bottom: 0.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
